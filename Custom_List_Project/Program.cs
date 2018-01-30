@@ -10,6 +10,17 @@ namespace Custom_List_Project
     {
         static void Main(string[] args)
         {
+            //CustomList<int> list = new CustomList<int>();
+
+            //foreach(var value in list)
+            //{
+            //    value;
+            //}
+
+            //list.CreateArray();
+
+            Console.ReadLine();
+
         }
     }
 }
